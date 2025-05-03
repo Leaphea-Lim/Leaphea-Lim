@@ -17,11 +17,8 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F700FF&width=600&lines=%E1%AF%93%E2%98%85+Hello%2C+This+is+Leaphea+%E2%94%80%E2%94%80+.%E2%9C%A6" alt="Typing SVG" /></a>
 </div>
+<p align="center">I'm still learning.
 
-
-
-<!--<p align="center">Hi-->
-  
 #
 
 <img align="right" alt="" height="190px" src="https://www.gifcen.com/wp-content/uploads/2022/09/png-gif-8.gif">
@@ -30,8 +27,6 @@ Here are some ideas to get you started:
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:ansoleaphea@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/ansoleaphea-lim-a27999328/)
 [![Instagram](https://img.shields.io/badge/-Facebook-000?style=for-the-badge&logo=facebook&logoColor=FF00F6&color:FFF)](https://www.facebook.com/lim.ansoleaphea.5)
-
-
 
 <h3 align="left">My Tech Stack</h3>
 
@@ -65,8 +60,3 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leaphea-Lim/Leaphea-Lim/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Leaphea-Lim/Leaphea-Lim/output/github-snake.svg" />
 </picture>
-<!--
-![GitHub Snake Light](https://github.com/Leaphea-Lim/Leaphea-Lim/blob/output/github-snake.svg)
-
-![GitHub Snake Dark](https://github.com/Leaphea-Lim/Leaphea-Lim/blob/output/github-snake-dark.svg?palette=github-dark)
--->
